@@ -4,10 +4,10 @@
 The information below is relevant for the following product versions
 |Product|Version|
 |-|-|
-|mce Logistics|14.21.0|
-|mce Retail|14.21.0|
-|mce On-Device|3.91.0|
-|mce Web|3.91.0|
+|mce Logistics|14.22.1|
+|mce Retail|14.22.1|
+|mce On-Device|3.93.2|
+|mce Web|3.93.2|
 
 ## Source Code Availability
 We use some of the libraries indicated below pursuant to licenses that may require us to provide you with source code under certain circumstances. If you wish to obtain any source code that we are required to make available, and the table below does not already include a link to such source code, then please send a request for such source code to [support@mce.systems](support@mce.systems). Your request should include clear information about the product and version you are using and the library that you are requesting.
@@ -33,7 +33,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[wkhtmltopdf.exe](https://github.com/wkhtmltopdf/wkhtmltopdf)|2010-2021 wkhtmltopdf|[LGPL 3.0](https://github.com/wkhtmltopdf/wkhtmltopdf/blob/master/LICENSE)|✔️|✔️|||
 |[s3.exe](undefined)| |[MIT](https://codeplexarchive.blob.core.windows.net/archive/projects/s3/s3.zip)|✔️|✔️|||
 |[libeay32.dll](undefined)| |[OpenSSL](https://github.com/openssl/openssl/blob/master/LICENSE.txt)|✔️|✔️|||
-|[D3DCompiler_47_cor3.dll](https://download.visualstudio.microsoft.com/download/pr/ea41603b-fdff-4e66-bdac-b9a76930a1eb/3b1547d83ef502c887c9d8f7a37df698/dotnet-sdk-6.0.100-preview.1.21103.13-win-x86.zip)|Copyright .NET Foundation and Contributors|[Microsoft .NET Library](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/a79486a6-d528-4209-8e9c-b38386201b9c)|✔️|✔️|||
+|[D3DCompiler_47_cor3.dll](https://download.visualstudio.microsoft.com/download/pr/ea41603b-fdff-4e66-bdac-b9a76930a1eb/3b1547d83ef502c887c9d8f7a37df698/dotnet-sdk-6.0.100-preview.1.21103.13-win-x86.zip)|Copyright .NET Foundation and Contributors|[Microsoft .NET Library](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/183645db-c1be-43c6-bbeb-2d45e25d4291)|✔️|✔️|||
 |[cryptopp.dll](undefined)| |[Public Domain](https://github.com/weidai11/cryptopp/blob/master/License.txt)|✔️|✔️|||
 |[sqlite3.dll](undefined)| |[Public Domain](https://www.sqlite.org/copyright.html)|✔️|✔️|||
 |[DotNetZip-1.10.1.dll](https://api.nuget.org/packages/dotnetzip.1.10.1.nupkg)|Dino Chiesa & Microsoft Corporation|[Zlib](https://raw.githubusercontent.com/haf/DotNetZip.Semverd/master/LICENSE)|✔️|✔️|||
@@ -445,7 +445,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[is-my-json-valid-2.20.5.tgz](https://github.com/mafintosh/is-my-json-valid#readme)|2014 Copyright 2014 Mathias Buus|[MIT](https://github.com/mafintosh/is-my-json-valid/blob/v2.20.5/package.json)|✔️|✔️|✔️|✔️|
 |[csvtojson-2.0.8.tgz](https://github.com/Keyang/node-csvtojson)|2013 Copyright 2013 Keyang Xiang|[MIT](https://github.com/Keyang/node-csvtojson/blob/v2.0.8/LICENSE)|✔️|✔️|||
 |[luhn-js-1.1.2.tgz](https://github.com/EDumdum/luhn#readme)|2017 Copyright 2017 edum|[MIT](https://www.npmjs.com/package/luhn-js/v/1.1.2)|✔️|✔️|||
-|[symfony/css-selector-v2.7.8](https://symfony.com)|2004-2015 Copyright 2004-2015 Fabien Potencier|[BSD](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/414eaefd-bb20-4349-b3ea-b2cc36a0f45d)|✔️|✔️|||
+|[symfony/css-selector-v2.7.8](https://symfony.com)|2004-2015 Copyright 2004-2015 Fabien Potencier|[BSD](https://packagist.org/packages/symfony/css-selector#v2.7.8)|✔️|✔️|||
 |[set-blocking-2.0.0.tgz](https://github.com/yargs/set-blocking#readme)|2016 Copyright 2016 Contributors|[ISC](https://www.npmjs.com/package/set-blocking/v/2.0.0)|✔️|✔️|✔️|✔️|
 |[archiver-0.11.0.tgz](https://github.com/ctalkington/node-archiver)|2012-2014 Copyright 2012-2014 Chris Talkington, contributors|[MIT](https://github.com/ctalkington/node-archiver/blob/master/LICENSE-MIT)|✔️|✔️|||
 |[monolog/monolog-1.17.2](http://github.com/Seldaek/monolog)|2011-2015 Copyright 2011-2015 Jordi Boggiano|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/aa2f14e7-cea8-49d5-b005-505c9b50c14c)|✔️|✔️|||
@@ -522,7 +522,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[axios-0.16.2.tgz](https://github.com/mzabriskie/axios)|2014 Copyright 2014 Matt Zabriskie|[MIT](https://www.npmjs.com/package/axios/v/0.16.2)|✔️|✔️|||
 |[strip-ansi-3.0.1.tgz](https://github.com/chalk/strip-ansi)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://github.com/chalk/strip-ansi)|✔️|✔️|✔️|✔️|
 |[retry-as-promised-2.3.2.tgz](https://github.com/mickhansen/retry-as-promised)|2015-2016 Copyright 2015-2016 Mick Hansen. http://mhansen.io|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8b1c2b80-f365-4125-b7b6-db6173020f2c)|✔️|✔️|||
-|[classpreloader/classpreloader-3.0.0](https://api.github.com/repos/ClassPreloader/ClassPreloader/zipball/9b10b913c2bdf90c3d2e0d726b454fb7f77c552a)|2013-2014 Copyright 2013-2014 Michael Dowling <mtdowling@gmail.com>, 2014-2015 Copyright 2014-2015 Graham Campbell <graham@alt|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/eb56bac4-2c05-4a56-adf7-faa96f469c6c)|✔️|✔️|||
+|[classpreloader/classpreloader-3.0.0](https://api.github.com/repos/ClassPreloader/ClassPreloader/zipball/9b10b913c2bdf90c3d2e0d726b454fb7f77c552a)|2013-2014 Copyright 2013-2014 Michael Dowling <mtdowling@gmail.com>, 2014-2015 Copyright 2014-2015 Graham Campbell <graham@alt|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/6701360a-48f8-465c-ab77-eb3a3f7c5fd2)|✔️|✔️|||
 |[merge-source-map-1.0.4.tgz](https://github.com/keik/merge-source-map#readme)|Copyright keik <k4t0.kei@gmail.com>|[MIT](https://www.npmjs.com/package/merge-source-map)|✔️|✔️|||
 |[busboy-file:busboy.tgz](undefined)| |[MIT](http://github.com/mscdex/busboy/raw/master/LICENSE)|✔️|✔️|||
 |[ipaddr.js-1.4.0.tgz](https://github.com/whitequark/ipaddr.js#readme)|2011 Copyright 2011 Peter Zotov <whitequark@whitequark.org>|[MIT](https://www.npmjs.com/package/ipaddr.js)|✔️|✔️|||
@@ -685,7 +685,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[sigmund-1.0.1.tgz](https://github.com/isaacs/sigmund#readme)|Copyright Isaac Z|[ISC](https://github.com/isaacs/sigmund/blob/v1.0.1/package.json)|✔️|✔️|||
 |[has-values-1.0.0.tgz](https://github.com/jonschlinkert/has-values)|2014-2017 Copyright 2014-2017 Jon Schlinkert, 2017 Copyright 2017 "Jon Schlinkert" (https://github.com/jonschlinkert)|[MIT](https://github.com/jonschlinkert/has-values)|✔️|✔️|✔️|✔️|
 |[asn1-0.2.4.tgz](https://github.com/joyent/node-asn1#readme)|2011 Copyright 2011 Mark Cavage, All rights reserved|[MIT](https://www.npmjs.com/package/asn1/v/0.2.4)|✔️|✔️|✔️|✔️|
-|[psr/http-message-1.0](undefined)| |[BSD 2](https://github.com/php-fig/http-message/blob/master/LICENSE)|✔️|✔️|||
+|[psr/http-message-1.0](undefined)| |[BSD 2](https://packagist.org/packages/http-message/http-message)|✔️|✔️|||
 |[strip-bom-2.0.0.tgz](https://github.com/sindresorhus/strip-bom)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/f52ef83a-236b-4f3a-9e13-48141b767879)|✔️|✔️|✔️|✔️|
 |[cyclist-1.0.1.tgz](https://github.com/mafintosh/cyclist)|2015 Copyright 2015 Mathias Buus|[MIT](https://www.npmjs.com/package/cyclist)|✔️|✔️|||
 |[graceful-fs-3.0.11.tgz](https://github.com/isaacs/node-graceful-fs#readme)|Copyright Isaac Z|[ISC](https://www.npmjs.com/package/graceful-fs/v/3.0.11)|✔️|✔️|||
@@ -882,7 +882,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[right-align-0.1.3.tgz](https://github.com/jonschlinkert/right-align)|2015 Copyright 2015 Jon Schlinkert|[MIT](https://www.npmjs.com/package/right-align)|✔️|✔️|||
 |[map-visit-1.0.0.tgz](https://github.com/jonschlinkert/map-visit)|2017 Copyright 2017 "Jon Schlinkert" (https://github.com/jonschlinkert), 2015-2017 Copyright 2015-2017 Jon Schlinkert|[MIT](https://github.com/jonschlinkert/map-visit)|✔️|✔️|✔️|✔️|
 |[random-bytes-1.0.0.tgz](https://github.com/crypto-utils/random-bytes)|2016 Copyright 2016 Douglas Christopher Wilson <doug@somethingdoug.com>|[MIT](https://www.npmjs.com/package/random-bytes)|✔️|✔️|||
-|[amdefine-1.0.1.tgz](http://github.com/jrburke/amdefine)|2011-2016 Copyright 2011-2016 The Dojo Foundation|[BSD 3](http://github.com/jrburke/amdefine)|✔️|✔️|✔️|✔️|
+|[amdefine-1.0.1.tgz](http://github.com/jrburke/amdefine)|2011-2016 Copyright 2011-2016 The Dojo Foundation|[BSD 3](https://github.com/jrburke/amdefine)|✔️|✔️|✔️|✔️|
 |[moment-2.24.0.tgz](http://momentjs.com)|Copyright JS Foundation and other contributors|[MIT](https://github.com/moment/moment/tree/2.24.0)|✔️|✔️|||
 |[shebang-regex-1.0.0.tgz](https://github.com/sindresorhus/shebang-regex)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://github.com/sindresorhus/shebang-regex)|✔️|✔️|✔️|✔️|
 |[ms-2.1.3.tgz](https://github.com/vercel/ms#readme)|2020 Copyright 2020 Vercel, Inc|[MIT](https://www.npmjs.com/package/ms)|✔️|✔️|||
@@ -890,7 +890,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[fontkit-1.7.7.tgz](https://registry.npmjs.org/fontkit/-/fontkit-1.7.7.tgz)| |[MIT](https://www.npmjs.com/package/fontkit)|✔️|✔️|||
 |[routes-2.1.0.tgz](https://github.com/aaronblohowiak/routes.js)| |[MIT](https://github.com/aaronblohowiak/routes.js)|✔️|✔️|✔️|✔️|
 |[z-schema-3.25.1.tgz](https://github.com/zaggino/z-schema)|2014 Copyright 2014 Martin Zagora and other contributors|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/6cb1d366-ecca-40f7-b526-c8d5f8a0e615)|✔️|✔️|✔️|✔️|
-|[esprima-1.0.4.tgz](http://esprima.org)|2012-2011 Copyright 2012-2011 [Ariya Hidayat](http://ariya.ofilabs.com/about), 2012-2011 Copyright 2012-2011 "Ariya Hidayat" (http://ariya.ofilabs.com/about)|[BSD](http://github.com/ariya/esprima/raw/master/LICENSE.BSD)|✔️|✔️|||
+|[esprima-1.0.4.tgz](http://esprima.org)|2012-2011 Copyright 2012-2011 [Ariya Hidayat](http://ariya.ofilabs.com/about), 2012-2011 Copyright 2012-2011 "Ariya Hidayat" (http://ariya.ofilabs.com/about)|[BSD](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/c434c572-172b-4a3b-bfcd-3469122c199d)|✔️|✔️|||
 |[generate-function-2.0.0.tgz](https://github.com/mafintosh/generate-function)|2014 Mathias Buus|[MIT](https://github.com/mafintosh/generate-function/blob/master/LICENSE)|✔️|✔️|||
 |[guzzlehttp/promises-1.0.3](undefined)| |[MIT](https://github.com/guzzle/promises/blob/master/LICENSE)|✔️|✔️|||
 |[cookie-signature-1.0.6.tgz](https://github.com/visionmedia/node-cookie-signature)|2012 Copyright 2012 LearnBoost <tj@learnboost.com>|[MIT](https://github.com/tj/node-cookie-signature)|✔️|✔️|✔️|✔️|
@@ -1179,7 +1179,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[pause-0.0.1.tgz](https://registry.npmjs.org/pause/-/pause-0.0.1.tgz)|2012 Copyright 2012 TJ Holowaychuk <tj@vision-media.ca>|[MIT](https://github.com/stream-utils/pause)|✔️|✔️|||
 |[bl-0.9.5.tgz](https://github.com/rvagg/bl)|2014 Copyright 2014 bl contributors, 2013-2014 Copyright 2013-2014 bl contributors (listed above)|[MIT](https://www.npmjs.com/package/bl/v/0.9.5)|✔️|✔️|||
 |[wordwrap-0.0.2.tgz](https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.2.tgz)|2011-2015 James Halliday|[MIT](https://github.com/substack/node-wordwrap/blob/master/LICENSE)|✔️|✔️|||
-|[source-map-0.1.43.tgz](https://github.com/mozilla/source-map)|2009-2011 Copyright 2009-2011 Mozilla Foundation and contributors|[BSD 3](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/f3d0b2c8-09c1-4368-a717-a8357903d94b)|✔️|✔️|||
+|[source-map-0.1.43.tgz](https://github.com/mozilla/source-map)|2009-2011 Copyright 2009-2011 Mozilla Foundation and contributors|[BSD 3](https://www.npmjs.com/package/source-map)|✔️|✔️|||
 |[promise-6.1.0.tgz](https://github.com/then/promise)|2014 Copyright 2014 Forbes Lindesay|[MIT](https://github.com/then/promise/blob/6.1.0/LICENSE)|✔️|✔️|||
 |[create-error-class-3.0.2.tgz](https://github.com/floatdrop/create-error-class)|Copyright Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)|[MIT](https://github.com/floatdrop/create-error-class/blob/v3.0.2/readme.md)|✔️|✔️|✔️|✔️|
 |[arr-diff-2.0.0.tgz](https://github.com/jonschlinkert/arr-diff)|2014-2015 Copyright 2014-2015 Jon Schlinkert, 2015 Copyright 2015 "Jon Schlinkert" (https://github.com/jonschlinkert)|[MIT](https://www.npmjs.com/package/arr-diff)|✔️|✔️|✔️|✔️|
@@ -1299,11 +1299,11 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[random_compat-v1.2.0](https://paragonie.com/projects)|2015 Copyright 2015 Paragon Initiative Enterprises|[MIT](https://github.com/paragonie/random_compat/blob/v1.2.0/LICENSE)|✔️|✔️|||
 |[PHP-Parser-v2.0.1](https://github.com/nikic/PHP-Parser.git)|2011 Copyright 2011 by Nikita Popov|[BSD 2](https://github.com/nikic/PHP-Parser/blob/v2.0.1/LICENSE)|✔️|✔️|||
 |[psysh-v0.6.1](https://psysh.org)| |[MIT](https://github.com/bobthecow/psysh/blob/v0.6.1/LICENSE)|✔️|✔️|||
-|[System.Web.Providers-1.1.0.0.dll](https://api.nuget.org/packages/microsoft.aspnet.providers.core.1.1.0.nupkg)|© Microsoft Corporation. All rights reserved.|[Commercial](Microsoft corportaion)|✔️|✔️|||
+|[System.Web.Providers-1.1.0.0.dll](https://api.nuget.org/packages/microsoft.aspnet.providers.core.1.1.0.nupkg)|Copyright Microsoft Corporation|[Commercial](Microsoft corportaion)|✔️|✔️|||
 |[Artem.Web.Security.Xml-4.0.11013.113.dll](http://tinyproviders.codeplex.com/)|2010 Copyright 2010 ArtemBG|[MIT]( https://github.com/alienlab/Alienlab.Web.Security/blob/master/LICENSE)|✔️|✔️|||
 |[microsoft.web.infrastructure.1.0.0.nupkg](http://www.asp.net)|Microsoft Corporation|[Microsoft .NET Library](https://www.asp.net/)|✔️|✔️|||
-|[Microsoft.Web.Infrastructure-1.0.20105.407.dll](https://api.nuget.org/packages/microsoft.web.infrastructure.1.0.0.nupkg)|© Microsoft Corporation. All rights reserved.|[Microsoft .NET Library](https://dotnet.microsoft.com/)|✔️|✔️|||
-|[System.Web.Optimization-1.0.0.0.dll](https://api.nuget.org/packages/microsoft.aspnet.web.optimization.1.0.0.nupkg)|Copyright © Microsoft 2011"|[Microsoft .NET Library](https://github.com/aspnet/AspNetWebOptimization)|✔️|✔️|||
+|[Microsoft.Web.Infrastructure-1.0.20105.407.dll](http://www.asp.net)|Copyright Microsoft Corporation|[Microsoft .NET Library](https://dotnet.microsoft.com/)|✔️|✔️|||
+|[System.Web.Optimization-1.0.0.0.dll](https://api.nuget.org/packages/microsoft.aspnet.web.optimization.1.0.0.nupkg)|2011 Copyright 2011 Microsoft|[Microsoft .NET Library](https://github.com/aspnet/AspNetWebOptimization)|✔️|✔️|||
 |[jquery-1.7.1.min.js](http://jquery.com/)|2011 Copyright 2011 John Resig, http://jquery.com/|[MIT](https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/jquery/package.json)|✔️|✔️|||
 |[Artem.Web.Security-1.0.11013.113.dll](http://tinyproviders.codeplex.com/)|2010 Copyright 2010 ArtemBG|[MIT](https://github.com/alienlab/Alienlab.Web.Security/blob/master/LICENSE)|✔️|✔️|||
 |[jquery-1.7.1](https://jquery.com/)|2011 Copyright 2011 John Resig, http://jquery.com/|[MIT](https://github.com/jquery/jquery/tree/1.7.1)|✔️|✔️|||
@@ -1316,7 +1316,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[cURL-libcurl-7.30.0](https://github.com/winlibs/cURL/zipball/libcurl-7.30.0)|1996-2013 Copyright 1996-2013 Daniel Stenberg, <daniel@haxx.se>, 1998 Copyright 1998 1999|[MIT](https://github.com/winlibs/cURL/blob/libcurl-7.30.0/COPYING)|✔️|✔️|||
 |[libplist-1.11](https://github.com/libimobiledevice/libplist/)|2008-2021 libimobiledevice|[LGPL 2.1](https://github.com/libimobiledevice/libplist/blob/1.11/COPYING.LESSER)|✔️|✔️|||
 |[publitronic-delphi-cob-ingest-v.1.0.beta](https://github.com/DelphiForBroadcasting/publitronic-delphi/zipball/cob-ingest-v.1.0.beta)| |[Mozilla 1.1](https://github.com/DelphiForBroadcasting/publitronic-delphi/blob/cob-ingest-v.1.0.beta/Examples/%2Bcobaltingest/SZCodeBaseX.pas)|✔️|✔️|||
-|[libevent-release-2.0.21-stable](https://libevent.org)|2007 Copyright 2007 Sun Microsystems, 2003 Copyright 2003 Michael A, 2006 Copyright 2006 Maxim Yegorushkin <maxim.yegorushkin@gmail.com>, 1996 Copyright 1996 David Mazieres <dm@uun.org>, 1993 Copyright 1993 The Regents of the University of California, 2002 Copyright 2002 Christopher Clark, 1998 Copyright 1998 Todd C, 2008 Copyright 2008 Damien Miller <djm@openbsd.org>, 2000-2007 Copyright 2000-2007 Niels Provos <provos@citi.umich.edu>, 2000 Copyright 2000 Dug Song <dugsong@monkey.org>, 2007-2012 Copyright 2007-2012 Niels Provos and Nick Mathewson|[OpenSSL](https://github.com/libevent/libevent/blob/release-2.0.21-stable/README)|✔️|✔️|||
+|[libevent-release-2.0.21-stable](https://libevent.org)|2007 Copyright 2007 Sun Microsystems, 2003 Copyright 2003 Michael A, 2006 Copyright 2006 Maxim Yegorushkin <maxim.yegorushkin@gmail.com>, 1996 Copyright 1996 David Mazieres <dm@uun.org>, 1993 Copyright 1993 The Regents of the University of California, 2002 Copyright 2002 Christopher Clark, 1998 Copyright 1998 Todd C, 2008 Copyright 2008 Damien Miller <djm@openbsd.org>, 2000-2007 Copyright 2000-2007 Niels Provos <provos@citi.umich.edu>, 2000 Copyright 2000 Dug Song <dugsong@monkey.org>, 2007-2012 Copyright 2007-2012 Niels Provos and Nick Mathewson|[OpenSSL](https://github.com/libevent/libevent/blob/release-2.0.21-stable/LICENSE)|✔️|✔️|||
 |[readerwriterqueue-v1.0.0](https://github.com/cameron314/readerwriterqueue/zipball/v1.0.0)| |[Zlib](https://github.com/cameron314/readerwriterqueue/blob/v1.0.0/LICENSE.md)|✔️|✔️|||
 |[libsodium-1.0.6](https://libsodium.org)| |[ISC](https://github.com/jedisct1/libsodium/blob/1.0.6/LICENSE)|✔️|✔️|||
 |[mpgravity-MPGravity-source-3.0.4](https://sourceforge.net/p/mpgravity/)| |[BSD](https://sourceforge.net/p/mpgravity/)|✔️|✔️|||
@@ -1418,7 +1418,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[json-buffer-3.0.0.tgz](https://github.com/dominictarr/json-buffer)|2013 Copyright 2013 Dominic Tarr|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/794bebdd-0b3c-435d-948e-9cd8c8ac39dd)|✔️|✔️|||
 |[supports-color-7.2.0.tgz](https://github.com/chalk/supports-color#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/65655891-9a64-413a-b68d-5b3516d5df9e)|✔️|✔️|✔️|✔️|
 |[http-cache-semantics-3.8.1.tgz](https://github.com/pornel/http-cache-semantics#readme)|2018 Kornel Lesiński|[BSD 2](https://github.com/pornel/http-cache-semantics/blob/v3.8.1/package.json)|✔️|✔️|✔️|✔️|
-|[fmt-3.0.0](https://fmt.dev)|2012-2016 Copyright 2012-2016 Victor Zverovich|[Python 2.0](https://github.com/fmtlib/fmt/blob/3.0.0/LICENSE.rst)|✔️|✔️|||
+|[fmt-3.0.0](https://fmt.dev)|2012-2016 Copyright 2012-2016 Victor Zverovich|[Python 2.0](https://github.com/fmtlib/fmt/blob/3.0.0/README.rst)|✔️|✔️|||
 |[process-0.11.10.tgz](https://github.com/shtylman/node-process#readme)|2013 Copyright 2013 Roman Shtylman <shtylman@gmail.com>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/9f3d4c6e-e9c1-4aa5-b387-64318c2c6643)|✔️|✔️|✔️|✔️|
 |[unbzip2-stream-1.3.3.tgz](https://github.com/regular/unbzip2-stream#readme)|2017 Copyright 2017 by Jan Boelsche (jan@lagomorph.de), 2011 Copyright 2011 by antimatter15 (antimatter15@gmail.com)|[MIT](https://github.com/regular/unbzip2-stream/blob/v1.3.3/LICENSE)|✔️|✔️|||
 |[jss-preset-default-4.5.0.tgz](https://github.com/cssinjs/jss-preset-default#readme)|2016 Copyright 2016 Oleg Slobodskoi|[MIT](https://github.com/cssinjs/jss-preset-default/blob/v4.5.0/LICENSE)|✔️|✔️|||
@@ -1472,7 +1472,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[yargs-unparser-1.5.0.tgz](https://github.com/yargs/yargs-unparser)|2017 Copyright 2017 Made With MOXY Lda <hello@moxy.studio>|[MIT](https://www.npmjs.com/package/yargs-unparser)|✔️|✔️|||
 |[recovery-0.2.6.tgz](https://github.com/unshiftio/recovery#readme)|2015 Copyright 2015 Unshift.io, Arnout Kazemier,  the Contributors|[MIT](https://github.com/unshiftio/recovery/blob/0.2.6/README.md)|✔️|✔️|||
 |[yargs-13.3.2.tgz](https://yargs.js.org/)|2014 Copyright 2014 Contributors (ben@npmjs.com), 2010 Copyright 2010 James Halliday (mail@substack.net)|[MIT](https://www.npmjs.com/package/yargs/v/13.3.2)|✔️|✔️|✔️|✔️|
-|[escalade-3.1.1.tgz](https://github.com/lukeed/escalade#readme)|Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)|[JSON](https://www.npmjs.com/package/escalade)|✔️|✔️|✔️|✔️|
+|[escalade-3.1.1.tgz](https://github.com/lukeed/escalade#readme)|Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)|[JSON](https://github.com/lukeed/escalade.git)|✔️|✔️|✔️|✔️|
 |[jsonpointer-4.0.0.tgz](https://github.com/janl/node-jsonpointer#readme)|2011-2015 Copyright 2011-2015 Jan Lehnardt <jan@apache.org> & Marc Bachmann <https://github.com/marcbachmann>, 2011-2015 Copyright 2011-2015 Jan Lehnardt "jan@apache.org" (mailto:jan@apache.org) & Marc Bachmann "https://g|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/70b73153-63af-4770-bebb-53165c24cebd)|✔️|✔️|||
 |[meaco-1.0.3.tgz](https://github.com/mceSystems/meaco#readme)|2017 Copyright 2017 mceSystems|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4acc3189-0bb1-4ee4-b1cf-8395ec7529dc)|✔️|✔️|✔️|✔️|
 |[babel-register-6.26.0.tgz](https://registry.npmjs.org/babel-register/-/babel-register-6.26.0.tgz)|2014-2017 Copyright 2014-2017 Sebastian McKenzie <sebmck@gmail.com>|[MIT](https://www.npmjs.com/package/babel-register)|✔️|✔️|✔️|✔️|
@@ -2032,7 +2032,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[aws4-1.5.0.tgz](https://github.com/mhart/aws4#readme)|2013 Copyright 2013 Michael Hart (michael.hart.au@gmail.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/990cf32e-2e38-48f4-94c4-039939210808)|✔️|✔️|||
 |[data-uri-to-buffer-1.2.0.tgz](https://github.com/TooTallNate/node-data-uri-to-buffer)|2014 Copyright 2014 Nathan Rajlich &lt;nathan@tootallnate.net&gt;, 2014 Copyright 2014 Nathan Rajlich <nathan@tootallnate.net>|[MIT](https://www.npmjs.com/package/data-uri-to-buffer)|✔️|✔️|||
 |[yargs-15.4.1.tgz](https://yargs.js.org/)|2010-2014 Copyright 2010-2014 Contributors (ben@npmjs.com)|[MIT](https://github.com/yargs/yargs)|✔️|✔️|✔️|✔️|
-|[microsoft.net.http.2.2.29.nupkg](http://go.microsoft.com/fwlink/?LinkID=280055)|Copyright Microsoft Corporation|[Microsoft .NET Library](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/0f32cd11-a893-44a6-9c1f-36047ff9f866)|✔️|✔️|||
+|[microsoft.net.http.2.2.29.nupkg](http://go.microsoft.com/fwlink/?LinkID=280055)|Copyright Microsoft Corporation|[Microsoft .NET Library](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/514dccef-8a4e-45d7-8149-7db3e000e801)|✔️|✔️|||
 |[merge-descriptors-1.0.0.tgz](https://github.com/component/merge-descriptors)|2013 Copyright 2013 Jonathan Ong <me@jongleberry.com>|[MIT](https://github.com/component/merge-descriptors/blob/1.0.0/package.json)|✔️|✔️|||
 |[fsevents-1.2.11.tgz](https://github.com/strongloop/fsevents)|2010-2014 Copyright 2010-2014 Philipp Dunkel|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/bf0b5f0e-a1af-401e-8141-6135bb17f196)|✔️|✔️|||
 |[request-2.79.0.tgz](https://github.com/request/request#readme)|Unspecified Copyright|[Apache 2.0](https://www.npmjs.com/package/request)|✔️|✔️|||
@@ -2040,7 +2040,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[strip-outer-1.0.1.tgz](https://github.com/sindresorhus/strip-outer#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://github.com/sindresorhus/strip-outer/blob/v1.0.1/package.json)|✔️|✔️|||
 |[sha.js-2.4.11.tgz](https://github.com/crypto-browserify/sha.js)|1998-2009 Copyright 1998-2009 Paul Johnston & Contributors, 2013-2018 Copyright 2013-2018 sha.js contributors|[MIT](https://github.com/crypto-browserify/sha.js)|✔️|✔️|✔️|✔️|
 |[invert-kv-2.0.0.tgz](https://github.com/sindresorhus/invert-kv#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8fc86046-28ec-4f1f-af32-aeca43d36970)|✔️|✔️|||
-|[winusbnet.1.0.3.nupkg](https://github.com/madwizard-thomas/winusbnet)|2010-2017 Copyright 2010-2017 by Thomas Bleeker (MadWizard.org)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4ff1ea72-55ec-42c5-99e7-2858e7197751)|✔️|✔️|||
+|[winusbnet.1.0.3.nupkg](https://github.com/madwizard-thomas/winusbnet)|2010-2017 Copyright 2010-2017 by Thomas Bleeker, 2010-2017 Copyright 2010-2017 by Thomas Bleeker (MadWizard.org)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/01563161-7ece-47bf-9661-c550af805da2)|✔️|✔️|||
 |[babel-helpers-6.24.1.tgz](https://babeljs.io/)|2014-2017 Copyright 2014-2017 Sebastian McKenzie <sebmck@gmail.com>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8e6813bf-76e4-4a0a-9142-661c5f9055b3)|✔️|✔️|✔️|✔️|
 |[tough-cookie-4.0.0.tgz](https://registry.npmjs.org/@types/tough-cookie/-/tough-cookie-4.0.0.tgz)|Copyright Microsoft Corporation|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/9bbd3fa3-06ee-4e3a-978e-25baac1dd3a0)|✔️|✔️|✔️|✔️|
 |[cli-width-2.2.1.tgz](https://github.com/knownasilya/cli-width)|2015 Copyright 2015 Ilya Radchenko <ilya@burstcreations.com>|[ISC](https://www.npmjs.com/package/cli-width)|✔️|✔️|✔️|✔️|
@@ -2085,7 +2085,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[babel-plugin-transform-react-display-name-6.25.0.tgz](https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.25.0.tgz)|2014-2017 Copyright 2014-2017 Sebastian McKenzie <sebmck@gmail.com>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/abcc6845-1a74-41a8-9f7b-51303f0267cb)|✔️|✔️|✔️|✔️|
 |[wrap-ansi-4.0.0.tgz](https://github.com/chalk/wrap-ansi#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/0dd94660-4b14-44ca-a073-8e78c37fb62d)|✔️|✔️|✔️|✔️|
 |[proxy-agent-2.3.1.tgz](https://github.com/TooTallNate/node-proxy-agent)|2013 Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4133ecdc-0e66-40a0-9e3d-a087c1eeb1ca)|✔️|✔️|||
-|[axios-0.21.1.tgz](https://github.com/axios/axios)|2014 Copyright 2014 Matt Zabriskie|[MIT](https://github.com/axios/axios/blob/v0.21.1/LICENSE)|✔️|✔️|✔️|✔️|
+|[axios-0.21.1.tgz](https://github.com/axios/axios)|2014 Copyright 2014 Matt Zabriskie|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/60823d88-c2db-4d35-a7b3-4eb5b862bdea)|✔️|✔️|✔️|✔️|
 |[stream-transform-2.0.3.tgz](https://csv.js.org/transform/)|2010 Copyright 2010 Adaltas|[MIT](https://github.com/adaltas/node-stream-transform/blob/v2.0.3/README.md)|✔️|✔️|||
 |[grunt-cli-1.2.0.tgz](https://github.com/gruntjs/grunt-cli#readme)|2016 Copyright 2016 Tyler Kellen, contributors|[MIT](https://www.npmjs.com/package/grunt-cli)|✔️|✔️|||
 |[zen-observable-ts-1.0.0.tgz](https://github.com/apollographql/zen-observable-ts#readme)|2020 Copyright 2020 Apollo Graph, Inc, 2021 Copyright 2021 Apollo Graph, Inc|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/9ed941b0-2bd7-4f2d-998d-33e8641fb160)|✔️|✔️|||
@@ -2135,7 +2135,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[es-to-primitive-1.2.0.tgz](https://github.com/ljharb/es-to-primitive#readme)|2015 Copyright 2015 Jordan Harband|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/d488d563-cef0-4659-867b-c1ae41339ca2)|✔️|✔️|✔️|✔️|
 |[js2xmlparser-4.0.1.tgz](https://github.com/michaelkourlas/node-js2xmlparser#readme)|2016-2020 Copyright 2016-2020 Michael Kourlas|[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/92632454-280e-48d8-bf58-f5533a89afd9)|✔️|✔️|||
 |[locate-path-6.0.0.tgz](https://github.com/sindresorhus/locate-path#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/0b21c375-7099-4fb5-9d67-f1c70c35132f)|✔️|✔️|||
-|[type-fest-0.21.3.tgz](https://github.com/sindresorhus/type-fest#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (https:/sindresorhus.com)|[CC0](https://github.com/sindresorhus/type-fest/blob/v0.21.3/package.json)|✔️|✔️|✔️|✔️|
+|[type-fest-0.21.3.tgz](https://github.com/sindresorhus/type-fest#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (https:/sindresorhus.com)|[CC0](https://github.com/sindresorhus/type-fest/blob/v0.21.3/license-cc0)|✔️|✔️|✔️|✔️|
 |[archive-type-4.0.0.tgz](https://github.com/kevva/archive-type#readme)|Copyright Kevin Mårtensson <kevinmartensson@gmail.com>|[MIT](https://www.npmjs.com/package/archive-type)|✔️|✔️|||
 |[jss-vendor-prefixer-7.0.0.tgz](https://github.com/cssinjs/jss-vendor-prefixer#readme)|2014 Copyright 2014 Oleg Slobodskoi|[MIT](https://github.com/cssinjs/jss-vendor-prefixer/blob/v7.0.0/readme.md)|✔️|✔️|||
 |[utf-8-validate-1.2.2.tgz](https://github.com/websockets/utf-8-validate)|2013-2016 Copyright 2013-2016 Einar Otto Stangvik <einaros@gmail.com> (http://2x.io)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/6d9c6924-cde0-4633-8cfc-70331774998a)|✔️|✔️|||
@@ -2188,7 +2188,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[globals-9.18.0.tgz](https://github.com/sindresorhus/globals#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/9ef3c646-19ac-47f5-86b7-76d1c8807511)|✔️|✔️|✔️|✔️|
 |[utf8-2.1.0.tgz](https://mths.be/utf8js)|Copyright Mathias Bynens <https://mathiasbynens.be/>|[MIT](https://www.npmjs.com/package/utf8)|✔️|✔️|||
 |[express-4.17.9.tgz](https://registry.npmjs.org/@types/express/-/express-4.17.9.tgz)|Copyright Microsoft Corporation|[MIT](https://www.npmjs.com/package/@types/express)|✔️|✔️|||
-|[awssdk.s3.3.3.10.4.nupkg](https://github.com/aws/aws-sdk-net/)| |[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/fa89a6db-4b49-4e02-96e8-47b42968b31e)|✔️|✔️|||
+|[awssdk.s3.3.3.10.4.nupkg](https://github.com/aws/aws-sdk-net/)| |[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4db7c3c6-6925-4c35-9fce-0dbede12f7df)|✔️|✔️|||
 |[sort-keys-1.1.2.tgz](https://github.com/sindresorhus/sort-keys#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://github.com/sindresorhus/sort-keys/blob/v1.1.2/readme.md)|✔️|✔️|||
 |[requires-port-1.0.0.tgz](https://github.com/unshiftio/requires-port)|2015 Copyright 2015 Unshift.io, Arnout Kazemier,  the Contributors|[MIT](https://www.npmjs.com/package/requires-port/v/1.0.0)|✔️|✔️|✔️|✔️|
 |[ffi-napi-2.5.0.tgz](http://github.com/node-ffi-napi/node-ffi-napi)|2015 Copyright 2015 Nathan Rajlich, Richard "Rick" W, 2012-2014 Copyright 2012-2014 Nathan Rajlich, Richard "Rick" W, 2009-2011 Copyright 2009-2011 Richard "Rick" W|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4b57ce54-db5e-4b86-997d-268e09da5a10)|✔️|✔️|||
@@ -2258,7 +2258,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[uri-js-4.4.0.tgz](https://github.com/garycourt/uri-js)|2011 Copyright 2011 Gary Court|[BSD 2](https://github.com/garycourt/uri-js)|✔️|✔️|✔️|✔️|
 |[http-proxy-agent-2.1.0.tgz](https://github.com/TooTallNate/node-http-proxy-agent#readme)|2013 Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>, 2013 Copyright 2013 Nathan Rajlich &lt;nathan@tootallnate.net&gt;|[MIT](https://github.com/TooTallNate/node-http-proxy-agent)|✔️|✔️|✔️|✔️|
 |[app-root-path-3.0.0.tgz](https://github.com/inxilpro/node-app-root-path)|2014 Copyright 2014 Chris Morrell|[MIT](https://github.com/inxilpro/node-app-root-path/blob/3.0.0/package.json)|✔️|✔️|✔️|✔️|
-|[awssdk.s3.3.1.3.9.nupkg](https://github.com/aws/aws-sdk-net/)| |[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/d3e56a91-9e04-47a8-86b9-94385df761f3)|✔️|✔️|||
+|[awssdk.s3.3.1.3.9.nupkg](https://github.com/aws/aws-sdk-net/)| |[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/799eba89-8ffc-49bc-88d7-61e0b0b8a3ed)|✔️|✔️|||
 |[object.assign-4.1.2.tgz](https://github.com/ljharb/object.assign#readme)|2014 Copyright 2014 Jordan Harband|[MIT](https://github.com/ljharb/object.assign/blob/v4.1.2/LICENSE)|✔️|✔️|✔️|✔️|
 |[Synesthesia-Vision-1.0](https://github.com/averov90/Synesthesia-Vision/zipball/1.0)| |[MIT](LICENSE)|✔️|✔️|||
 |[request-https://registry.npmjs.org/request/-/request-2.81.0.tgz.tgz](undefined)| |[Apache 2.0](https://github.com/request/request/blob/v2.81.0/LICENSE)|✔️|✔️|||
@@ -2519,11 +2519,11 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[commons-io-2.4.jar](http://archive.apache.org/dist/ofbiz/apache-ofbiz-13.07.02.zip)|2002-2012 Copyright 2002-2012 The Apache Software Foundation|[Apache 2.0](http://archive.apache.org/dist/ofbiz/apache-ofbiz-13.07.02.zip)|✔️|✔️|||
 |[cl32.dll](undefined)| |[Requires Review](null)|✔️|✔️|||
 |[ntrights-1.0.4.exe](https://www.nuget.org/packages/Shaw.BuildAndRelease.Prototype/1.0.4)|Unspecified Copyright|[Unspecified License](no license was assign)|✔️|✔️|||
-|[msvcr120-12.00.21005.1.dll](https://api.nuget.org/packages/librdkafka.redist.0.11.1-test88.nupkg)|Unspecified Copyright|[Proprietary](https://visualstudio.microsoft.com/)|✔️|✔️|||
+|[msvcr120-12.00.21005.1.dll](https://github.com/edenhill/librdkafka)|Copyright Runtime Library", Copyright Microsoft Corporation|[Proprietary](https://visualstudio.microsoft.com/)|✔️|✔️|||
 |[PnPutil.exe](undefined)| |[Requires Review](null)|✔️|✔️|||
 |[wdapi811.dll](undefined)| |[Requires Review](null)|✔️|✔️|||
 |[signtool.exe](undefined)| |[Suspected Unspecified License](undefined)|✔️|✔️|||
-|[PsExec-2.2.exe](https://api.nuget.org/packages/substrate.tdssetup.1.0.0.nupkg)|2001-2016 Copyright 2001-2016 Mark Russinovich"|[Sysinternals](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/11f5099d-f188-4493-924f-d895ddc8a710)|✔️|✔️|||
+|[PsExec-2.2.exe](http://project_url_here_or_delete_this_line/)|2001-2016 Copyright 2001-2016 Mark Russinovich|[Sysinternals](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/27362cd0-5899-4a03-84af-4b0470f787d2)|✔️|✔️|||
 |[inspect-property-0.0.6.tgz](https://registry.npmjs.org/inspect-property/-/inspect-property-0.0.6.tgz)| |[MIT](https://www.npmjs.com/package/inspect-property)|✔️|✔️|✔️|✔️|
 |[apollo-utilities-1.3.4.tgz](https://github.com/apollographql/apollo-client#readme)|2018 Copyright 2018 Meteor Development Group, Inc|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/1d4a4a23-3a83-4daf-b0fa-910388769300)|✔️|✔️|✔️|✔️|
 |[http-errors-1.8.0.tgz](https://github.com/jshttp/http-errors#readme)|2014 Copyright 2014 Jonathan Ong me@jongleberry.com, 2016 Copyright 2016 Douglas Christopher Wilson doug@somethingdoug.com|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4217469e-1131-4fc5-94a0-aad18ef6f26e)|✔️|✔️|✔️|✔️|
@@ -2817,7 +2817,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[deep-is-0.1.4.tgz](https://github.com/thlorenz/deep-is#readme)|2009 Copyright 2009 Thomas Robinson <280north.com>, 2012 Copyright 2012 James Halliday <mail@substack.net>, 2012-2013 Copyright 2012-2013 Thorsten Lorenz <thlorenz@gmx.de>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4a8bd7ab-c7a6-4ab8-a898-6f2cf97410cc)|✔️|✔️|✔️|✔️|
 |[axios-0.21.3.tgz](https://axios-http.com)|2014 Copyright 2014 Matt Zabriskie|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/90e463ed-9c0a-4d92-81ab-9dd950abb641)|✔️|✔️|✔️|✔️|
 |[convert-excel-to-json-1.7.1.tgz](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/convert-excel-to-json)|Copyright Microsoft Corporation|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/46431de2-777b-4af9-b834-c9950a5136c1)|✔️|✔️|✔️|✔️|
-|[node-fetch-2.6.2.tgz](undefined)| |[MIT](https://github.com/node-fetch/node-fetch/blob/2.x/LICENSE.md)|✔️|✔️|✔️|✔️|
+|[node-fetch-2.6.2.tgz](https://github.com/bitinn/node-fetch)|2016 Copyright 2016 David Frank|[MIT](https://github.com/node-fetch/node-fetch/blob/2.x/LICENSE.md)|✔️|✔️|✔️|✔️|
 |[error-ex-1.3.2.tgz](https://github.com/qix-/node-error-ex#readme)|2015 Copyright 2015 JD Ballard|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/fba7b194-428b-4893-aa6c-775d33d08550)|✔️|✔️|✔️|✔️|
 |[tunnel-0.0.6.tgz](https://github.com/koichik/node-tunnel/)|2012 Copyright 2012 Koichi Kobayashi|[MIT](https://github.com/koichik/node-tunnel/)|✔️|✔️|✔️|✔️|
 |[js-cookie-2.2.1.tgz](https://github.com/js-cookie/js-cookie#readme)|2018 Copyright 2018 Klaus Hartl, Fagner Brack, GitHub Contributors|[MIT](https://github.com/js-cookie/js-cookie/blob/e288a7321e2d292c3045c03d222d19faa51e9e4e/package.json)|✔️|✔️|✔️|✔️|
@@ -2844,7 +2844,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[capture-stack-trace-1.0.0.tgz](https://github.com/floatdrop/capture-stack-trace)|Copyright Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)|[MIT](https://github.com/floatdrop/capture-stack-trace/blob/v1.0.0/package.json)|✔️|✔️|✔️|✔️|
 |[are-we-there-yet-1.1.4.tgz](https://github.com/iarna/are-we-there-yet)|2015 Copyright 2015 Rebecca Turner|[ISC](https://www.npmjs.com/package/are-we-there-yet)|✔️|✔️|✔️|✔️|
 |[gensync-1.0.0-beta.2.tgz](https://github.com/loganfsmyth/gensync)|2018 Copyright 2018 Logan Smyth <loganfsmyth@gmail.com>|[MIT](https://www.npmjs.com/package/gensync/v/1.0.0-beta.2)|✔️|✔️|✔️|✔️|
-|[JSONStream-1.3.5.tgz](http://github.com/dominictarr/JSONStream)|2011 Copyright 2011 Dominic Tarr|[Apache 2.0](https://www.npmjs.com/package/JSONStream)|✔️|✔️|✔️|✔️|
+|[JSONStream-1.3.5.tgz](http://github.com/dominictarr/JSONStream)|2011 Copyright 2011 Dominic Tarr|[Apache 2.0](https://www.npmjs.com/package/JSONStream/v/1.3.5)|✔️|✔️|✔️|✔️|
 |[whet.extend-0.9.9.tgz](https://registry.npmjs.org/whet.extend/-/whet.extend-0.9.9.tgz)|2012 Copyright 2012 Dmitrii Karpich|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/b7bf6e10-3698-41bd-adda-e7e4e02624f3)|✔️|✔️|✔️|✔️|
 |[popmotion-8.7.6.tgz](https://popmotion.io/)|2019 Copyright 2019 Framer BV|[MIT](https://www.npmjs.com/package/popmotion/v/8.7.6)|✔️|✔️|✔️|✔️|
 |[react-responsive-modal-3.6.0.tgz](https://github.com/pradel/react-responsive-modal#readme)|2018 Copyright 2018 Léo Pradel|[MIT](https://github.com/pradel/react-responsive-modal/blob/v3.6.0/LICENSE)|✔️|✔️|✔️|✔️|
@@ -3345,7 +3345,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[babel-plugin-react-autoprefix-1.0.1.tgz](https://github.com/uxtemple/babel-plugin-react-prefix-styles#readme)| |[MIT](https://www.npmjs.com/package/babel-plugin-react-autoprefix)|✔️|✔️|✔️|✔️|
 |[ts-essentials-1.0.4.tgz](https://github.com/krzkaczor/ts-essentials#readme)| |[MIT](https://github.com/krzkaczor/ts-essentials/blob/v1.0.4/package.json)|✔️|✔️|✔️|✔️|
 |[material-0.2.4.tgz](https://github.com/at-icons/material#readme)|2020 Case Sandberg|[MIT](https://www.npmjs.com/package/@icons/material/v/0.2.4)|✔️|✔️|✔️|✔️|
-|[sorted-object-2.0.1.tgz](https://github.com/domenic/sorted-object#readme)|2004 Copyright 2004 Sam Hocevar <sam@hocevar.net>, 2014-2016 Copyright 2014-2016 Domenic Denicola <d@domenic.me>|[WTFPL](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/a553c674-eeea-4163-9d9d-41f462bc3fa2)|✔️|✔️|✔️|✔️|
+|[sorted-object-2.0.1.tgz](https://github.com/domenic/sorted-object#readme)|2004 Copyright 2004 Sam Hocevar <sam@hocevar.net>, 2014-2016 Copyright 2014-2016 Domenic Denicola <d@domenic.me>|[WTFPL](https://www.npmjs.com/package/sorted-object/v/2.0.1)|✔️|✔️|✔️|✔️|
 |[collect-v8-coverage-1.0.1.tgz](https://github.com/SimenB/collect-v8-coverage#readme)|2019 Copyright 2019 Simen Bekkhus|[MIT](https://www.npmjs.com/package/collect-v8-coverage)|✔️|✔️|✔️|✔️|
 |[react-minimalist-portal-2.3.1.tgz](https://github.com/pradel/react-minimalist-portal#readme)|2016 Copyright 2016 Léo Pradel|[ISC](https://www.npmjs.com/package/react-minimalist-portal)|✔️|✔️|✔️|✔️|
 |[autoprefix-1.0.1.tgz](https://github.com/uxtemple/autoprefix#readme)| |[MIT](https://www.npmjs.com/package/autoprefix)|✔️|✔️|✔️|✔️|
@@ -3460,7 +3460,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[fast-xml-parser-3.19.0.tgz](https://github.com/NaturalIntelligence/fast-xml-parser#readme)|2017 Copyright 2017 Amit Kumar Gupta|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/dd87bc3c-4af0-4037-9e2e-7cc36a338cb9)|✔️|✔️|✔️|✔️|
 |[ts-loader-8.3.0.tgz](https://github.com/TypeStrong/ts-loader)|2015 Copyright 2015 TypeStrong|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/a818f307-a04f-46ea-802b-073c34346210)|✔️|✔️|✔️|✔️|
 |[nise-1.5.3.tgz](https://github.com/sinonjs/nise#readme)|2010-2017 Copyright 2010-2017 Christian Johansen, christian@cjohansen.no|[BSD 3](https://www.npmjs.com/package/nise/v/1.5.3)|✔️|✔️|✔️|✔️|
-|[immer-8.0.1.tgz](https://github.com/immerjs/immer#readme)|2017 Copyright 2017 Michel Weststrate|[MIT](https://www.npmjs.com/package/immer)|✔️|✔️|✔️|✔️|
+|[immer-8.0.1.tgz](https://github.com/immerjs/immer#readme)|2017 Copyright 2017 Michel Weststrate|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/b8f290eb-3db1-4843-9ecb-0874bf0d0d76)|✔️|✔️|✔️|✔️|
 |[util-utf8-browser-3.6.1.tgz](https://github.com/aws/aws-sdk-js-v3/tree/main/packages/util-utf8-browser)|2018-2020 Copyright 2018-2020 Amazon.com, Inc|[Apache 2.0](https://www.npmjs.com/package/@aws-sdk/util-utf8-browser)|✔️|✔️|✔️|✔️|
 |[react-dropzone-10.2.2.tgz](https://github.com/react-dropzone/react-dropzone)|2018 Copyright 2018 Param Aggarwal|[MIT](https://github.com/react-dropzone/react-dropzone/blob/v10.2.2/LICENSE)|✔️|✔️|✔️|✔️|
 |[middleware-header-default-3.6.1.tgz](https://github.com/aws/aws-sdk-js-v3/tree/main/packages/middleware-header-default)|2018-2020 Copyright 2018-2020 Amazon.com, Inc|[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/fb2a8b27-d6a6-4094-bd70-7a334348ab11)|✔️|✔️|✔️|✔️|
@@ -3540,7 +3540,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[util-format-url-3.6.1.tgz](https://github.com/aws/aws-sdk-js-v3/tree/main/packages/util-format-url)|2018-2020 Copyright 2018-2020 Amazon.com, Inc|[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/bf348a5d-96f8-4399-a089-6c04c4e298dc)|✔️|✔️|✔️|✔️|
 |[ulid-2.3.0.tgz](https://github.com/ulid/javascript#readme)|2017 Copyright 2017 Alizain Feerasta|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/df3ff43b-fe17-4196-b015-90256f1c249c)|✔️|✔️|✔️|✔️|
 |[util-hex-encoding-3.6.1.tgz](https://github.com/aws/aws-sdk-js-v3/tree/main/packages/util-hex-encoding)|2018-2020 Copyright 2018-2020 Amazon.com, Inc|[Apache 2.0](https://www.npmjs.com/package/@aws-sdk/util-hex-encoding)|✔️|✔️|✔️|✔️|
-|[text-encoding-0.7.1.tgz](https://github.com/inexorabletash/text-encoding)|Joshua Bell|[Unlicense](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/a1269cb6-7f00-4a53-8914-dc821ad2fefe)|✔️|✔️|✔️|✔️|
+|[text-encoding-0.7.1.tgz](https://github.com/inexorabletash/text-encoding)|Joshua Bell|[Unlicense](https://www.npmjs.com/package/@sinonjs/text-encoding/v/0.7.1)|✔️|✔️|✔️|✔️|
 |[client-s3-3.6.1.tgz](https://github.com/aws/aws-sdk-js-v3/tree/main/clients/client-s3)|2018-2020 Copyright 2018-2020 Amazon.com, Inc|[Apache 2.0](https://www.npmjs.com/package/@aws-sdk/client-s3)|✔️|✔️|✔️|✔️|
 |[bowser-2.11.0.tgz](https://github.com/lancedikson/bowser)|2015 Copyright 2015 Dustin Diaz (the "Original Author")|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/b60edecd-5a73-4074-8767-a86b0d9aed5c)|✔️|✔️|✔️|✔️|
 |[invalid-dependency-3.6.1.tgz](https://github.com/aws/aws-sdk-js-v3/tree/main/packages/invalid-dependency)|2019 Copyright 2019 Amazon.com, Inc. or its affiliates|[Apache 2.0](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/6d03448a-a136-453c-9f44-8a25461df543)|✔️|✔️|✔️|✔️|
@@ -3920,9 +3920,9 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[webpack-5.51.2.tgz](https://github.com/webpack/webpack)|Copyright JS Foundation and other contributors|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/d512dc77-2e84-4919-ad95-55518796b068)|✔️|✔️|✔️|✔️|
 |[react-redux-7.2.5.tgz](https://github.com/reduxjs/react-redux)|2015 Copyright 2015 Dan Abramov|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/007fc278-4867-4ede-839f-7d6d6b7772ab)|✔️|✔️|✔️|✔️|
 |[react-16.14.15.tgz](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react)|Copyright Microsoft Corporation|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/ac7129d5-288e-441d-ab40-05cbdece317b)|✔️|✔️|✔️|✔️|
-|[caniuse-lite-1.0.30001255.tgz](undefined)| |[CC BY 4.0](https://github.com/browserslist/caniuse-lite/blob/072e3ddfd0258a976e5d1332480243b4406889c4/LICENSE)|✔️|✔️|✔️|✔️|
-|[caniuse-db-1.0.30001255.tgz](undefined)| |[CC BY 4.0](https://github.com/Fyrd/caniuse/blob/5166beba5dd55c74a237166e627d9c30c69614c8/LICENSE)|✔️|✔️|✔️|✔️|
-|[acorn-8.5.0.tgz](undefined)| |[MIT](https://github.com/acornjs/acorn/blob/8.5.0/package.json)|✔️|✔️|✔️|✔️|
+|[caniuse-lite-1.0.30001255.tgz](https://github.com/browserslist/caniuse-lite#readme)| |[CC BY 4.0](https://github.com/browserslist/caniuse-lite/blob/072e3ddfd0258a976e5d1332480243b4406889c4/LICENSE)|✔️|✔️|✔️|✔️|
+|[caniuse-db-1.0.30001255.tgz](https://github.com/Fyrd/caniuse#readme)|2020 Copyright 2020 Alexis Deveria|[CC BY 4.0](https://github.com/Fyrd/caniuse/blob/5166beba5dd55c74a237166e627d9c30c69614c8/LICENSE)|✔️|✔️|✔️|✔️|
+|[acorn-8.5.0.tgz](https://github.com/acornjs/acorn)|2012-2020 Copyright 2012-2020 by various contributors, 2015-2019 Copyright 2015-2019 or|[MIT](https://github.com/acornjs/acorn/blob/8.5.0/package.json)|✔️|✔️|✔️|✔️|
 |[browserslist-4.17.0.tgz](https://github.com/browserslist/browserslist#readme)|2015 Copyright 2015 since, 2014 Copyright 2014 Andrey Sitnik <andrey@sitnik.ru> and other contributors|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/68441b7a-0076-4cac-894b-f272bcdf9dc2)|✔️|✔️|✔️|✔️|
 |[vectordrawable-animated-1.0.0.aar](http://developer.android.com/tools/extras/support-library.html)|2015 The Android Open Source Project|[Apache 2.0](https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable-animated/1.0.0/vectordrawable-animated-1.0.0.pom)|✔️|✔️|✔️||
 |[libusb-1.0.dll](https://github.com/libusb/libusb/tree/v1.0.0)|2001-2021 libusb|[LGPL 2.1](https://github.com/libusb/libusb/blob/v1.0.0/COPYING)|✔️|✔️|||
@@ -4135,7 +4135,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[print-1.0.0.aar](http://developer.android.com/tools/extras/support-library.html)|2019 The Android Open Source Project|[Apache 2.0](https://dl.google.com/dl/android/maven2/androidx/print/print/1.0.0/print-1.0.0.pom)|✔️|✔️|✔️||
 |[androidasync-2.1.9.aar](https://github.com/koush/AndroidAsync)| |[Apache 2.0](https://repo.maven.apache.org/maven2/com/koushikdutta/async/androidasync/2.1.9/androidasync-2.1.9.pom)|✔️|✔️|✔️||
 |[fragment-1.0.0.aar](http://developer.android.com/tools/extras/support-library.html)|2019 The Android Open Source Project|[Apache 2.0](https://dl.google.com/dl/android/maven2/androidx/fragment/fragment/1.0.0/fragment-1.0.0.pom)|✔️|✔️|✔️||
-|[base-froyo](https://android.googlesource.com/platform/frameworks/base)| |[Unicode](NOTICE)|✔️|✔️|✔️|✔️|
+|[base-froyo](https://android.googlesource.com/platform/frameworks/base)| |[Apache 2.0](NOTICE)|✔️|✔️|✔️|✔️|
 |[intellij-core-26.4.1.jar](https://developer.android.com/studio)|2007 Copyright 2007 The Apache Software Foundation|[Apache 2.0](https://dl.google.com/dl/android/maven2/com/android/tools/external/com-intellij/intellij-core/26.4.1/intellij-core-26.4.1.pom)|✔️|✔️|✔️||
 |[play-services-measurement-sdk-api-19.0.0.aar](undefined)|2007-2009 Copyright 2007-2009 JSR, 2005-2008 Copyright 2005-2008 The Android Open Source Project, 2017 Copyright 2017 Google Inc, 2008 Copyright 2008 Kohsuke Kawaguchi and codehaus.org, 2005-2011 Copyright 2005-2011 The Android Open Source Project|[Android SDK](https://dl.google.com/dl/android/maven2/com/google/android/gms/play-services-measurement-sdk-api/19.0.0/play-services-measurement-sdk-api-19.0.0.pom)|✔️|✔️|✔️||
 |[commons-codec-1.10.jar](http://www.apache.org/)|2002-2014 Copyright 2002-2014 The Apache Software Foundation, 2008 Copyright 2008 Alexander Beider & Stephen P, 2002 Copyright 2002 Kevin Atkinson (kevina@gnu.org)|[Apache 2.0](https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom)|✔️|✔️|✔️||
