@@ -4,10 +4,10 @@
 The information below is relevant for the following product versions
 |Product|Version|
 |-|-|
-|mce Logistics|15.0.4|
-|mce Retail|15.0.4|
-|mce On-Device|3.163.4|
-|mce Web|3.163.4|
+|mce Logistics|15.0.5|
+|mce Retail|15.0.5|
+|mce On-Device|3.163.5|
+|mce Web|3.163.5|
 
 ## Source Code Availability
 We use some of the libraries indicated below pursuant to licenses that may require us to provide you with source code under certain circumstances. If you wish to obtain any source code that we are required to make available, and the table below does not already include a link to such source code, then please send a request for such source code to [support@mce.systems](support@mce.systems). Your request should include clear information about the product and version you are using and the library that you are requesting.
@@ -761,7 +761,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[unicode-trie-0.3.1.tgz](https://github.com/devongovett/unicode-trie)|Unspecified Copyright|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4f2b8731-3e4e-4f65-a646-706ba6757dfd)|✔️|✔️|||
 |[ast-transform-0.0.0.tgz](https://github.com/hughsk/ast-transform)|2014 Copyright 2014 Hugh Kennedy|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/6cff5d0c-947a-4b52-bbbb-485da6969ee7)|✔️|✔️|||
 |[safe-regex-1.1.0.tgz](https://github.com/substack/safe-regex)|Unspecified Copyright|[MIT](https://github.com/substack/safe-regex)|✔️|✔️|||
-|[amdefine-1.0.1.tgz](http://github.com/jrburke/amdefine)|2011-2016 Copyright 2011-2016 The Dojo Foundation|[BSD 3](http://github.com/jrburke/amdefine)|✔️|✔️|||
+|[amdefine-1.0.1.tgz](http://github.com/jrburke/amdefine)|2011-2016 Copyright 2011-2016 The Dojo Foundation|[BSD 3](https://github.com/jrburke/amdefine)|✔️|✔️|||
 |[buffer-crc32-0.2.13.tgz](https://github.com/brianloveswords/buffer-crc32)|2013 Copyright 2013 Brian J|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/ce486677-0fe0-45ed-9b0f-d726ae172987)|✔️|✔️|||
 |[debug-2.3.3.tgz](https://github.com/visionmedia/debug#readme)|2014-2016 Copyright 2014-2016 TJ Holowaychuk <tj@vision, 2014 Copyright 2014 TJ Holowaychuk <tj@vision-media.ca>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/0552cb1d-072f-431d-ad57-6f5e305a03e1)|✔️|✔️|||
 |[code-point-at-1.1.0.tgz](https://github.com/sindresorhus/code-point-at#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/40ed7fcb-2d4b-4248-b0dc-a01bb0f7a0a6)|✔️|✔️|||
@@ -1747,7 +1747,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[css-2.2.4.tgz](https://github.com/reworkcss/css#readme)|2012 Copyright 2012 TJ Holowaychuk <tj@vision-media.ca>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/c68e1aea-74c3-4d16-92e5-c8f1ced6fc8c)|✔️|✔️|✔️|✔️|
 |[stax-ex-1.8.jar](http://stax-ex.java.net/)|1997-2018 Copyright 1997-2018 Oracle and/or its affiliates|[GPL 2.0 Classpath](https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom)|✔️|✔️|✔️||
 |[pass-v1.2.6.jar](undefined)| |[SDK licence](https://developer.samsung.com/mobile)|✔️|✔️|||
-|[libevent-release-2.0.21-stable](https://libevent.org)|2007 Copyright 2007 Sun Microsystems, 2003 Copyright 2003 Michael A, 2006 Copyright 2006 Maxim Yegorushkin <maxim.yegorushkin@gmail.com>, 1996 Copyright 1996 David Mazieres <dm@uun.org>, 1993 Copyright 1993 The Regents of the University of California, 2002 Copyright 2002 Christopher Clark, 1998 Copyright 1998 Todd C, 2008 Copyright 2008 Damien Miller <djm@openbsd.org>, 2000-2007 Copyright 2000-2007 Niels Provos <provos@citi.umich.edu>, 2000 Copyright 2000 Dug Song <dugsong@monkey.org>, 2007-2012 Copyright 2007-2012 Niels Provos and Nick Mathewson|[OpenSSL](https://github.com/libevent/libevent/blob/release-2.0.21-stable/LICENSE)|✔️|✔️|||
+|[libevent-release-2.0.21-stable](https://libevent.org)|2007 Copyright 2007 Sun Microsystems, 2003 Copyright 2003 Michael A, 2006 Copyright 2006 Maxim Yegorushkin <maxim.yegorushkin@gmail.com>, 1996 Copyright 1996 David Mazieres <dm@uun.org>, 1993 Copyright 1993 The Regents of the University of California, 2002 Copyright 2002 Christopher Clark, 1998 Copyright 1998 Todd C, 2008 Copyright 2008 Damien Miller <djm@openbsd.org>, 2000-2007 Copyright 2000-2007 Niels Provos <provos@citi.umich.edu>, 2000 Copyright 2000 Dug Song <dugsong@monkey.org>, 2007-2012 Copyright 2007-2012 Niels Provos and Nick Mathewson|[OpenSSL](https://github.com/libevent/libevent/blob/release-2.0.21-stable/README)|✔️|✔️|||
 |[invert-kv-2.0.0.tgz](https://github.com/sindresorhus/invert-kv#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/b006778e-10cf-469f-b031-2e266e4f46be)|✔️|✔️|||
 |[lcid-2.0.0.tgz](https://github.com/sindresorhus/lcid#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/75b7263a-b769-4d66-8a1b-5e877d3af09e)|✔️|✔️|||
 |[android_system_core-android-4.3_r2.1](https://github.com/google-aosp/android_system_core.git)| |[Apache 2.0](https://github.com/google-aosp/android_system_core/blob/android-4.3_r2.1/README)|✔️|✔️|||
@@ -1809,7 +1809,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[url-loader-1.1.2.tgz](https://github.com/webpack-contrib/url-loader)|Copyright JS Foundation and other contributors|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/3aad3d5f-26ad-4312-ad0f-77410d45147b)|✔️|✔️|✔️|✔️|
 |[semver-5.6.0.tgz](https://github.com/npm/node-semver#readme)|Copyright Isaac Z. Schlueter and Contributors, Copyright Isaac Z|[ISC](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/742c1747-d904-45c2-9af5-275d059ca670)|✔️|✔️|||
 |[aes-js-3.1.1.tgz](https://github.com/ricmoo/aes-js#readme)|2015 Copyright 2015 Richard Moore|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/2b2336e6-56b7-4158-b414-5b9a891da46b)|✔️|✔️|||
-|[JSONStream-1.3.5.tgz](http://github.com/dominictarr/JSONStream)|2011 Copyright 2011 Dominic Tarr|[Apache 2.0](https://www.npmjs.com/package/JSONStream/v/1.3.5)|✔️|✔️|✔️|✔️|
+|[JSONStream-1.3.5.tgz](http://github.com/dominictarr/JSONStream)|2011 Copyright 2011 Dominic Tarr|[Apache 2.0](https://www.npmjs.com/package/JSONStream)|✔️|✔️|✔️|✔️|
 |[SQLite-3.24.0](https://www.sqlite.org/index.html)| |[Public Domain](https://www.sqlite.org/index.html)|✔️|✔️|||
 |[svg-react-loader-0.4.6.tgz](https://github.com/jhamlet/svg-react-loader#readme)|2016 Copyright 2016 Jerry Hamlet <jerry@hamletink.com>|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/017da16b-ddc5-4794-9958-19a00590231f)|✔️|✔️|✔️|✔️|
 |[widest-line-2.0.1.tgz](https://github.com/sindresorhus/widest-line#readme)|Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)|[MIT](https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/334dc3cd-6529-469d-924d-d83d16bdfbff)|✔️|✔️|||
@@ -3143,7 +3143,7 @@ We use some of the libraries indicated below pursuant to licenses that may requi
 |[lkjson-lkJSON-1.07](https://sourceforge.net/p/lkjson/)| |[BSD 3](https://sourceforge.net/projects/lkjson/files/lkJSON-1.07.zip/download)|✔️|✔️|||
 |[Tool-XP-OEM-Activator-v1.0](https://github.com/Tsusai/Tool-XP-OEM-Activator/zipball/v1.0)| |[MIT](https://github.com/Tsusai/Tool-XP-OEM-Activator/blob/v1.0/LICENSE)|✔️|✔️|||
 |[ddablib-dd-verinfo-3.3.0](https://sourceforge.net/p/ddablib/code/HEAD/tree/trunk/projects/verinfo/)|1998-2014 DelphiDabbler|[Mozilla 2.0](https://sourceforge.net/p/ddablib/)|✔️|✔️|||
-|[docopt.cpp](https://github.com/docopt/docopt.cpp/zipball/v0.6.3)| |[MIT](LICENSE-Boost-1.0)|✔️|✔️|||
+|[docopt.cpp](https://github.com/docopt/docopt.cpp/zipball/v0.6.3)| |[MIT](LICENSE-MIT)|✔️|✔️|||
 |[TntUnicode-56395c8bda4eeb33561fcaca3176ffb523627683](https://github.com/rofl0r/TntUnicode/zipball/56395c8bda4eeb33561fcaca3176ffb523627683)| |[BSD](https://github.com/rofl0r/TntUnicode/blob/56395c8bda4eeb33561fcaca3176ffb523627683/License.rtf)|✔️|✔️|||
 |[phpspec-2.4.1](http://www.phpspec.net)| |[MIT](https://github.com/phpspec/phpspec/blob/2.4.1/LICENSE)|✔️|✔️|||
 |[minhook-v1.3.2](http://www.codeproject.com/KB/winsdk/LibMinHook.aspx)| |[BSD 2](https://github.com/TsudaKageyu/minhook/blob/v1.3.2/LICENSE.txt)|✔️|✔️|||
